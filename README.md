@@ -1,2 +1,2 @@
-# Portfolio-
+# Tyler Nimmagadda
 portfolio project
