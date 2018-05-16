@@ -1,7 +1,5 @@
 ---
 title: Embry-Riddle Aeronautical University Daytona Beach Usability Study
-
-permalink: Portfolio/ERAUDB.md/
 ---
 
 
