@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hunt Library Usability Study
+permalink: /HuntLibrary/
+---
+
 # Hunt Library Usability Study
 
 ## Problem
