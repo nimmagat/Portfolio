@@ -8,6 +8,6 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 # About
 
 
-# [Embry-Riddle Aeronautical University Daytona Beach Usability Study](./ERAUDB.html)
+# [Embry-Riddle Aeronautical University Daytona Beach Usability Study](./ERAUDB.md)
 
 I'm hosted with GitHub Pages.
