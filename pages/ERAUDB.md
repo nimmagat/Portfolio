@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Embry-Riddle Aeronautical University Daytona Beach Usability Study
+title: ERAU Daytona Beach
 permalink: /ERAUDB/
 ---
 
