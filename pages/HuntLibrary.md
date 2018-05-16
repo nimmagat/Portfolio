@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hunt Library Usability Study
+title: Hunt Library
 permalink: /HuntLibrary/
 ---
 
