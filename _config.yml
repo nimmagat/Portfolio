@@ -1,5 +1,8 @@
-theme: jekyll-theme-leap-day
-
-# Site settings
+# basic options 
 title: Tyler Nimmagadda
+email: tylernimmagadda@gmail.com
 description: User Experience Research Portflio
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-leap-day
