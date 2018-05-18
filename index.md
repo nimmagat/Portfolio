@@ -9,5 +9,12 @@ title: About
 
 Major: Bachelor of Science in Human Factors Psychology 
 
+# Skills
+
+* Morae
+* C/C++
+* SPSS
+* Microsoft Office Suite (Word, Excel, and PowerPoint)
+* Catia
 
 I'm hosted with GitHub Pages.
