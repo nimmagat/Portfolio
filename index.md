@@ -16,5 +16,12 @@ Major: Bachelor of Science in Human Factors Psychology
 * SPSS
 * Microsoft Office Suite (Word, Excel, and PowerPoint)
 * Catia
+* Balsamiq
+* Computer Troubleshooting
+
+# Projects
+
+* Embry-Riddle Aeronautical University Daytona Beach Website Usability Study
+* Hunt Library Usability Study
 
 I'm hosted with GitHub Pages.
