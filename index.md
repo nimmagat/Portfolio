@@ -23,5 +23,3 @@ Major: Bachelor of Science in Human Factors Psychology
 
 * Embry-Riddle Aeronautical University Daytona Beach Website Usability Study
 * Hunt Library Usability Study
-
-I'm hosted with GitHub Pages.
