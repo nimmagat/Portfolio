@@ -10,7 +10,7 @@ Role: Researcher, Morae Logger, Data analyst and Wireframe
 
 ## Problem
 
-The Embry-Riddle Aeronautical University Daytona Beach (ERAU DB) library, Hunt Library, staff was looking to make changes to the website due to the school building a new library. They felt that the current website could use some improvement, so the asked a UX professor at ERAU to recommend some changes. This professor had our class run a study on both the desktop and mobile versions of the website. The goal was to find out what students liked and disliked about the website and what gave student the hardest time while using the website.
+The class created 20 tasks for the participants to complete. The tasks were made to test different sections of the website that a student may use and could be done on the website. The goal was to test a wide variety of the website’s capability. Once the tasks were selected, the class tested each other to make sure that the instructions were clear, they tested what we wanted to test and were able to be completed on the website. Once the the tasks were set in stone our professor divided us into six groups. Three groups tested desktop and the other three tested mobile. Each group was in charge of four participants. The participants were instructed by a facilitator while the rest of the group watched and recorded date using morae. From there, the class separated in to different teams to work on the presentation. The data was combined and reviewed. The data was then used to create recommendations to improve the website.
 
 ## Research Plan
 
